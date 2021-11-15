@@ -34,9 +34,9 @@ $(function () {
 		// 弹窗广告,不需要则删除该段代码
 		layer.open({
 			type: 1,
-			area: ['310px', '450px'], //宽高
-			content: '<div style="text-align: center;"><br><img src="https://imgs.bwmelon.com/20190722123548.png" style="width:80%;margin-bottom:15px;"><br>"扫码二维码查看支付效果或者打赏"<br>"本站生成的收款码无红包广告"<br>"又拍云CDN加速，收款更快捷"</div>',
-			title: '支付宝扫码领红包',
+			area: ['258px', '258px'], //宽高
+			content: '<div style="text-align: center;"><br><img src="https://s6.jpg.cm/2021/11/15/IiELjW.jpg" style="width:80%;margin-bottom:15px;"><br>"扫码关注公众号"<br>"本站生成的收款码无红包广告"<br>"又拍云CDN加速，收款更快捷"</div>',
+			title: '微信扫码关注公众号',
 			btn: ['关闭'],
 			btnAlign: 'c',
 			shade: 0,
